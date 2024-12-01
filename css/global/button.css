@@ -1,0 +1,18 @@
+.btn {
+  width: 10rem;
+  padding-block: 0.25rem;
+  text-align: center;
+  border-radius: 3px;
+  border: none;
+  font-size: 0.75rem;
+}
+
+.btn-dark {
+  background-color: #111b47;
+  color: #fff;
+}
+
+.btn-light {
+  background-color: transparent;
+  border: 2px solid #111b47;
+}

@@ -1,0 +1,28 @@
+.bigger_intro {
+  display: flex;
+  gap: 2.312rem;
+}
+
+.bigger_intro_paragraph {
+  padding-block: 10rem;
+}
+
+.bigger_intro_img {
+  margin-top: 6.812rem;
+  margin-bottom: 3.25rem;
+}
+
+.title_cards {
+  display: flex;
+  margin-top: 5rem;
+  gap: 30px;
+}
+
+.title_card img {
+  margin-bottom: 0.875rem;
+}
+
+.title_card p {
+  font-size: 12px;
+  max-width: 30ch;
+}

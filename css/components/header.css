@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-block: 10px;
+  position: relative;
+  z-index: 1;
+}
+
+.navlinks {
+  display: flex;
+  gap: 3.333rem;
+  margin-top: 1.125rem;
+  margin-bottom: 1.125rem;
+}
+
+.navlinks a {
+  font-size: 0.875rem;
+}
+
+.landing {
+  font-size: 1.625rem;
+  font-weight: 900;
+  margin-top: 0.75rem;
+  color: #37447e;
+}
+
+.buynow {
+  margin-top: 1.125rem;
+}

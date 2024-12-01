@@ -1,0 +1,24 @@
+.intro {
+  display: flex;
+  align-items: center;
+  height: 35.5625rem;
+}
+
+.intro_paragraph button {
+  margin-top: 2.5rem;
+  height: 2rem;
+}
+
+.intro-first {
+  gap: 9rem;
+  margin-left: 3.25rem;
+}
+
+.intro-second {
+  gap: 7.8125rem;
+}
+
+.intro-third {
+  gap: 10.75rem;
+  margin-left: 2.75rem;
+}

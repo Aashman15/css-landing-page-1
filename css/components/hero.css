@@ -1,0 +1,38 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  /* background-color: purple; */
+  height: 100vh;
+}
+
+.hero__paragraph {
+  position: relative;
+  z-index: 1;
+  margin-top: 15.1875rem;
+}
+
+.hero__paragraph h1 {
+  max-width: 22ch;
+}
+
+.hero__paragraph p {
+  max-width: 65ch;
+}
+
+.hero__buttons {
+  display: flex;
+  gap: 1.876rem;
+  margin-top: 4.312rem;
+}
+
+.hero__image {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.hero button {
+  height: 2.25rem;
+}
